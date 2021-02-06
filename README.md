@@ -20,4 +20,4 @@
 
 ### 📫 How to reach me:
 <br>
-<a href="https://www.twitter.com/NiyEric"><img src="https://img.shields.io/badge/-Twitter-007ACC?style=flat-square&logo=twitter&logoColor=white" alt="website"/></a><a href="https://www.linkedin.com/in/niyonsenga-eric-ba781b139">  <img src="https://img.shields.io/badge/-LinkedIn-0098D6?style=flat-square&logo=linkedin&logoColor=white" alt="website"/></a>
+<p align="left"> <a href="https://twitter.com/niyeric" target="blank"><img src="https://img.shields.io/twitter/follow/niyeric?logo=twitter&style=for-the-badge" alt="niyeric" /></a></p><a href="https://www.linkedin.com/in/niyonsenga-eric-ba781b139">  <img src="https://img.shields.io/badge/-LinkedIn-0098D6?style=flat-square&logo=linkedin&logoColor=white" alt="website"/></a>
