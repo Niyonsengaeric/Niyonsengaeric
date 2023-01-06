@@ -7,6 +7,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Niyonsengaeric&label=Profile%20views&color=0e75b6&style=flat" alt="Niyonsengaeric" /> </p>
 <br>
 
+###  👽 Know about my experiences <a href="https://niyonsengaeric.github.io/portfolio" target="blank">Portfolio</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/niyeric" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niyeric" height="30" width="40" /></a>
